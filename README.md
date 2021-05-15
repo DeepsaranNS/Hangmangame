@@ -1,2 +1,2 @@
 # Hangmangame
-basic game developed using python
+A basic hangman game developed using python.
